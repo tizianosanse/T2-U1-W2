@@ -19,6 +19,7 @@ body {
   color: aliceblue;
 }
 #headerspan p {
+  cursor: pointer;
   padding-left: 2em;
   padding-top: 0.5em;
 }
